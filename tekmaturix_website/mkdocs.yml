@@ -4,6 +4,10 @@ site_url: https://www.tekmaturix.com
 repo_url: https://github.com/shaiksuhel1999/Tekmaturix
 edit_uri: edit/main/tekmaturix_website/docs/
 
+# Build the finished site into the repo-root /docs folder, which GitHub Pages
+# serves directly (Settings > Pages > Branch: main, Folder: /docs).
+site_dir: ../docs
+
 theme:
   name: material
   palette:
