@@ -1,5 +1,7 @@
 # Unsolved: Space and Astronomy
 
+![Light bending around a black hole.](../assets/images/black-hole-lensing.jpg)
+
 | Problem | Status | Difficulty |
 |---------|--------|------------|
 | What is dark matter? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |

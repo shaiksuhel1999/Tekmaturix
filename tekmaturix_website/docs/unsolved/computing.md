@@ -1,71 +1,64 @@
-# 💻 Unsolved: Computing
+# Unsolved: Computing
+
+![Quantum computing hardware in a lab.](../assets/images/quantum-computer.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Practical quantum computers | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Fault-tolerant quantum systems | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Post-quantum cybersecurity | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Energy-efficient computing | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Exascale AI infrastructure | 🟢 Mostly Solved | ⭐⭐⭐⭐ |
-| Secure decentralized identity | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Global internet access | 🟡 Active Progress | ⭐⭐⭐ |
-| Data privacy at scale | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Zero-trust security | 🟡 Active Progress | ⭐⭐⭐ |
-| Quantum internet | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-
----
+| Practical quantum computers | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Fault-tolerant quantum systems | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Post-quantum security | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Energy-efficient computing | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Exascale AI infrastructure | 🟢 Mostly solved | ⭐⭐⭐⭐ |
+| Secure digital identity | 🟠 Early research | ⭐⭐⭐⭐ |
+| Global internet access | 🟡 Active progress | ⭐⭐⭐ |
+| Data privacy at scale | 🟠 Early research | ⭐⭐⭐⭐ |
+| Zero-trust security | 🟡 Active progress | ⭐⭐⭐ |
+| A quantum internet | 🟠 Early research | ⭐⭐⭐⭐⭐ |
 
 ### Practical quantum computers
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #12*
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #12
 
-**Why it matters** — quantum computers could crack problems classical machines never
-will: designing drugs and materials atom-by-atom, modeling chemistry exactly, and
-optimizing impossibly complex systems.
+Quantum computers could crack problems ordinary machines never will, like designing drugs and
+materials atom by atom and modelling chemistry exactly.
 
-**Current approaches** — superconducting qubits (IBM, Google), trapped ions
-(Quantinuum), photonics, and neutral atoms — no clear winner yet. Error correction is
-the central race.
+Current approaches: superconducting qubits at IBM and Google, trapped ions at Quantinuum,
+photonics, and neutral atoms. No clear winner yet, and error correction is the central race.
 
-**Major challenges** — qubits are fragile; they lose their quantum state
-(decoherence) in microseconds and errors accumulate fast. Useful computation needs
-thousands of stable *logical* qubits built from millions of physical ones.
+Why it's still open: qubits are fragile and lose their quantum state in microseconds, so
+errors pile up fast. Useful work needs thousands of stable logical qubits built from millions
+of physical ones.
 
-**Latest breakthrough** — Google's 2024 "Willow" chip showed error rates that *fall*
-as the system scales — a key signal that fault tolerance is reachable.
+Latest: Google's 2024 Willow chip showed error rates that fall as the system grows, which is
+a key sign that fault tolerance is reachable.
 
-**Predicted timeline** — useful, error-corrected machines: early-to-mid 2030s for
-narrow problems.
+Timeline: useful, error-corrected machines for narrow problems in the early-to-mid 2030s.
 
-**Related problems** — fault-tolerant systems, [post-quantum security](#post-quantum-cybersecurity), [quantum internet](#quantum-internet).
+Related: fault-tolerant systems, post-quantum security, a quantum internet.
 
----
+### Post-quantum security
 
-### Post-quantum cybersecurity
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐
+A large quantum computer would break most of the encryption protecting today's internet,
+banking and secrets. Some adversaries may already be storing encrypted data now to decrypt
+it later.
 
-**Why it matters** — a large quantum computer would break the encryption protecting
-almost all of today's internet, banking, and secrets. Adversaries may be
-*harvesting encrypted data now* to decrypt later.
+Current approaches: new quantum-resistant algorithms. The US standards body NIST published
+its first set in 2024, and a worldwide migration is starting.
 
-**Current approaches** — new "quantum-resistant" algorithms — the US NIST standardized
-the first set in 2024, and a global migration is beginning.
+Why it's still open: swapping out encryption across every device, protocol and system on
+Earth is a decade-long job that has to finish before quantum computers mature.
 
-**Major challenges** — replacing encryption across every device, protocol, and system
-on Earth is a decade-long project that must finish *before* quantum computers mature.
+### A quantum internet
 
----
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
 
-### Quantum internet
+A network built on quantum entanglement would be unhackable by the laws of physics, and would
+link quantum computers together.
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐
+Latest: entanglement has been sent across city-scale fibre networks and by satellite, through
+China's Micius, and small multi-node quantum networks now exist.
 
-**Why it matters** — a network using quantum entanglement would be unhackable by the
-laws of physics, and would link quantum computers together.
-
-**Latest breakthrough** — entanglement distributed over metropolitan-scale fiber
-networks and via satellite (China's Micius); small multi-node quantum networks now exist.
-
-**Major challenges** — entanglement is fragile over distance; quantum repeaters (the
-equivalent of signal boosters) are still immature.
+Why it's still open: entanglement is fragile over distance, and the quantum equivalent of a
+signal booster, a quantum repeater, is still immature.

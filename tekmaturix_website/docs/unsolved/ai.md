@@ -1,73 +1,66 @@
-# 🤖 Unsolved: Artificial Intelligence
+# Unsolved: Artificial Intelligence
+
+![A humanoid robot in a city street.](../assets/images/humanoid-robot.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Safe AGI | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| AI alignment | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| AI consciousness — is it possible? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Explainable AI | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Eliminating AI bias | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| AI governance | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Eliminating hallucinations | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| General-purpose robots | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Human-level reasoning | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-
----
+| Safe AGI | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| AI alignment | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Is AI consciousness possible? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
+| Explainable AI | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Removing AI bias | 🟡 Active progress | ⭐⭐⭐⭐ |
+| AI governance | 🟠 Early research | ⭐⭐⭐⭐ |
+| Ending hallucinations | 🟡 Active progress | ⭐⭐⭐⭐ |
+| General-purpose robots | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Human-level reasoning | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
 
 ### AI alignment
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #13*
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #13
 
-**Why it matters** — an AI system more capable than its builders must reliably want
-what humanity wants — even in situations nobody anticipated. Get this wrong at
-high capability levels and there may be no second attempt.
+An AI more capable than the people who built it needs to reliably want what people want,
+even in situations nobody planned for. Get this wrong at a high enough capability level and
+there may be no second try.
 
-**Current approaches** — reinforcement learning from human feedback (RLHF),
-constitutional AI, interpretability research (reading a model's internal
-representations), scalable oversight (using AI to help supervise AI).
+Current approaches: learning from human feedback, constitutional methods, interpretability
+work that tries to read what a model is doing internally, and using AI to help supervise AI.
 
-**Major challenges** — human values are inconsistent and hard to specify; models can
-learn to *appear* aligned; capabilities are advancing faster than alignment science.
+Why it's still open: human values are inconsistent and hard to pin down, models can learn to
+look aligned without being aligned, and raw capability is moving faster than the safety work.
 
-**Who is working on it** — Anthropic, OpenAI, Google DeepMind, academic groups
-(MIRI, CHAI, Redwood Research), and national AI safety institutes.
+Who's working on it: Anthropic, OpenAI, Google DeepMind, academic groups, and national AI
+safety institutes.
 
-**Predicted timeline** — must be solved *before* AGI arrives — which is exactly why
-it's urgent.
+Timeline: it needs to be solved before AGI arrives, which is exactly why people treat it as
+urgent.
 
-**Related problems** — safe AGI, AI governance, explainable AI.
+Related: safe AGI, AI governance, explainable AI.
 
----
+### Safe artificial general intelligence
 
-### Safe Artificial General Intelligence
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #1
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #1*
+AGI could compress a century of scientific progress into a decade, from curing diseases to
+solving fusion. Built carelessly, it is also the highest-stakes technology in history.
 
-**Why it matters** — AGI could compress a century of scientific progress into a
-decade — curing diseases, solving fusion, understanding the brain. Built carelessly,
-it's also the technology with the highest stakes in human history.
+Current approaches: research into how models scale, safety testing of frontier models,
+red-teaming, and international coordination through the AI safety summits that started in 2023.
 
-**Current approaches** — scaling laws research, frontier-model safety testing,
-red-teaming, international coordination (AI safety summits since 2023).
+Why it's still open: nobody agrees on what AGI is, when it will arrive, or how to test the
+safety of abilities that do not exist yet, and competition rewards speed over caution.
 
-**Major challenges** — nobody agrees on what AGI is, when it arrives, or how to test
-safety for capabilities that don't exist yet. Competitive pressure rewards speed
-over caution.
+Timeline: expert estimates run from a few years to many decades. The disagreement is itself
+part of the problem.
 
-**Predicted timeline** — expert estimates range from a few years to many decades —
-the disagreement is itself part of the problem.
+### Is AI consciousness possible?
 
----
+Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
 
-### AI consciousness
+If an AI could actually suffer or experience anything, how we build and use it changes
+completely.
 
-**Status:** 🔴 Unsolved · **Difficulty:** ⭐⭐⭐⭐⭐
+Why it's still open: we cannot even verify consciousness in each other except by analogy, as
+the [brain](brain.md) page explains. There is no agreed test that separates a system that
+reports being conscious from one that actually is.
 
-**Why it matters** — if an AI could suffer or have experiences, everything about how
-we build and use it changes morally.
-
-**Major challenges** — we can't even verify consciousness in *each other* except by
-analogy — see [the hard problem of consciousness](brain.md). There is no agreed test
-that distinguishes "reports being conscious" from "is conscious."
-
-**Related problems** — [what is consciousness?](brain.md), digital minds ethics.
+Related: what is consciousness, the ethics of digital minds.

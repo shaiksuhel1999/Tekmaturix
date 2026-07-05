@@ -3,6 +3,8 @@
 The tools that will shape the next 50 years. Some are already in labs, some are just
 leaving them.
 
+![A smart city street with connected vehicles.](../assets/images/smart-city.jpg)
+
 ## Artificial intelligence
 Machines that learn, reason and create. AlphaFold worked out protein structures that
 biologists had chased for 50 years. The open questions, alignment, consciousness and AGI,

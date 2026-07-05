@@ -1,5 +1,7 @@
 # Unsolved: Oceans
 
+![An underwater habitat on the sea floor.](../assets/images/underwater-habitat.jpg)
+
 | Problem | Status | Difficulty |
 |---------|--------|------------|
 | Mapping the whole ocean floor | 🟡 Active progress | ⭐⭐⭐ |
@@ -30,12 +32,16 @@ autonomous vessels.
 
 Timeline: a complete first-pass map is possible in the 2030s if funding holds.
 
+![A crewed submersible with divers, used to explore the deep.](../assets/images/submersible.jpg)
+
 ### Cleaning up ocean plastic at scale
 
 Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐
 
 About 8 million tonnes of plastic reach the ocean each year, and microplastics now show up
 in rain, food and human blood.
+
+![Plastic waste floating in the ocean.](../assets/images/ocean-plastic.jpg)
 
 Current approaches: catching plastic at rivers before it reaches the sea, which is the
 cheapest point of leverage since a small number of rivers carry much of the flow, plus

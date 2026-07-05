@@ -16,14 +16,12 @@ A few things the site tries to stick to:
 
 ## Contact
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [shaiksuhel1999](https://github.com/shaiksuhel1999)
 - Email: shaiksuhelbasha16.509@gmail.com
 
 ---
 
-Image credits: NASA and ESA Hubble (Ultra Deep Field, Pillars of Creation, NGC 1300),
-NASA Apollo 17 (Blue Marble), Wolfgang Beyer (Mandelbrot set, CC BY-SA), Toby Hudson
-(Flynn Reef coral, CC BY-SA), Rodin via Wikimedia (The Thinker), Ricardo Liberato (Giza
-pyramids, CC BY-SA), Rich Niewiroski Jr. (Golden Gate Bridge, CC BY), Mila Zinkova
-(Hawaii lava fountain, CC BY-SA), Leonardo da Vinci via Luc Viatour (Vitruvian Man). All
-public domain or Creative Commons via Wikimedia Commons.
+Image notes: the historical and public-domain photos (the Mandelbrot set, The Thinker, the
+Giza pyramids, the Golden Gate Bridge, a Hawaii lava fountain and the Vitruvian Man) come
+from Wikimedia Commons under public domain or Creative Commons licences. The space, ocean,
+brain, energy and future illustrations are digital artwork used to illustrate the topics.

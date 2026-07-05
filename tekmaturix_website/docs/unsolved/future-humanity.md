@@ -1,69 +1,65 @@
-# 🚀 Unsolved: Future Humanity
+# Unsolved: Future Humanity
+
+![An artist's view of a colony on Mars.](../assets/images/mars-colony.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Living on Mars (self-sustaining) | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Lunar cities | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Asteroid mining | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Human cryopreservation & revival | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Digital consciousness / mind uploading | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Synthetic biology | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Longevity beyond 120 years | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
+| A self-sustaining Mars colony | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Lunar cities | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Asteroid mining | 🟠 Early research | ⭐⭐⭐⭐ |
+| Cryopreservation and revival | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
+| Mind uploading | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
+| Synthetic biology | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Living well past 120 | 🟠 Early research | ⭐⭐⭐⭐⭐ |
 | Terraforming planets | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Space manufacturing | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Civilization resilience | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-
----
+| Space manufacturing | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Civilization resilience | 🟠 Early research | ⭐⭐⭐⭐⭐ |
 
 ### Lunar cities
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
 
-**Why it matters** — the Moon is a 3-day trip away, a proving ground for Mars, and a
-source of water ice (fuel) and rare materials. A permanent base is the realistic first
-step to humanity living off-Earth.
+The Moon is a three-day trip away, a proving ground for Mars, and a source of water ice for
+fuel. A permanent base is the realistic first step to living off Earth.
 
-**Current approaches** — NASA's Artemis program (crewed return this decade), planned
-lunar gateway station, and research into building with lunar regolith (3D-printed
-habitats using local dust) to avoid shipping everything from Earth.
+Current approaches: NASA's Artemis program, which aims to return crews this decade, a planned
+station in lunar orbit, and research into building with lunar dust so you do not have to ship
+everything from Earth.
 
-**Major challenges** — lunar dust is razor-sharp and clings to everything; 14-day
-nights need stored power; radiation with no atmosphere; and the sheer cost.
+Why it's still open: lunar dust is razor-sharp and gets into everything, the 14-day night
+needs stored power, there is no atmosphere to block radiation, and the cost is huge.
 
-**Predicted timeline** — small research base 2030s; a real "city" is a multi-decade goal.
+Timeline: a small research base in the 2030s. An actual city is a multi-decade goal.
 
-**Related problems** — [Mars settlement](space.md), space manufacturing, asteroid mining.
+![An artist's view of a base on the Moon.](../assets/images/lunar-base.jpg)
 
----
+Related: a Mars colony, space manufacturing, asteroid mining.
 
 ### Synthetic biology
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
 
-**Why it matters** — engineering biology like software lets us program cells to make
-medicines, food, fuels, and materials — even organisms that never existed in nature.
+Engineering biology like software lets us program cells to make medicines, food, fuels and
+materials, even organisms that never existed in nature.
 
-**Current approaches** — engineered microbes producing insulin, spider silk, and
-fragrances; a synthetic minimal cell (JCVI-syn3.0) built with just 473 genes; DNA as
-data storage.
+Current approaches: engineered microbes already produce insulin, spider silk and fragrances,
+a synthetic minimal cell was built with just 473 genes, and DNA is being used as a way to
+store data.
 
-**Major challenges** — biology is messy and unpredictable; engineered organisms behave
-differently outside the lab. Serious biosafety and biosecurity concerns.
+Why it's still open: biology is messy and hard to predict, engineered organisms behave
+differently outside the lab, and there are real biosafety and biosecurity concerns.
 
-**Related problems** — [organ regeneration](medicine.md), [reverse aging](medicine.md).
+Related: regrow organs and reverse aging on the [medicine](medicine.md) page.
 
----
+### Mind uploading
 
-### Digital consciousness / mind uploading
+Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
 
-**Status:** 🔴 Unsolved · **Difficulty:** ⭐⭐⭐⭐⭐
+Copying a mind into a computer would redefine death, identity and what it means to be human.
 
-**Why it matters** — copying a mind into a computer would redefine death, identity,
-and what it means to be human.
+Why it's still open: we cannot yet map a single human brain, as the [brain](brain.md) page
+covers, we do not understand consciousness, and even a perfect copy raises the Ship of Theseus
+question from the [philosophy](../knowledge/philosophy.md) page. Would the upload be you, or a
+copy that only thinks it is?
 
-**Major challenges** — we can't yet map a single human brain (see [The Brain](brain.md)),
-we don't understand [consciousness](brain.md), and even a perfect copy raises the
-[Ship of Theseus](../knowledge/philosophy.md) question: would the upload be *you*, or
-a copy that merely thinks it is?
-
-**Predicted timeline** — deeply speculative; not this century on current science.
+Timeline: deeply speculative, and not this century on current science.

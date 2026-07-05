@@ -1,68 +1,61 @@
-# ⚡ Unsolved: Engineering
+# Unsolved: Engineering
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
 | Space elevator | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Practical flying cars / eVTOL | 🟡 Active Progress | ⭐⭐⭐ |
-| Hyperloop at scale | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Battery breakthroughs (energy density) | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Wireless power transmission | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Cheap green hydrogen | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Self-healing materials | 🟡 Active Progress | ⭐⭐⭐ |
-| Earthquake-proof cities | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Carbon-negative buildings | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Autonomous construction | 🟡 Active Progress | ⭐⭐⭐ |
-
----
+| Practical flying cars | 🟡 Active progress | ⭐⭐⭐ |
+| Hyperloop at scale | 🟠 Early research | ⭐⭐⭐⭐ |
+| Much better batteries | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Wireless power | 🟠 Early research | ⭐⭐⭐⭐ |
+| Cheap green hydrogen | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Self-healing materials | 🟡 Active progress | ⭐⭐⭐ |
+| Earthquake-proof cities | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Carbon-negative buildings | 🟠 Early research | ⭐⭐⭐⭐ |
+| Autonomous construction | 🟡 Active progress | ⭐⭐⭐ |
 
 ### Space elevator
 
-**Status:** 🔴 Unsolved · **Difficulty:** ⭐⭐⭐⭐⭐
+Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
 
-**Why it matters** — a cable from the ground to geostationary orbit would let cargo
-*ride* to space for a tiny fraction of rocket cost — the single biggest possible
-change to space access.
+A cable running from the ground up to orbit would let cargo ride into space for a tiny
+fraction of what rockets cost. It would be the single biggest change to space access there
+is.
 
-**Current approaches** — mostly theoretical. Research into ultra-strong tethers
-(carbon nanotubes, graphene, and boron nitride); some propose a lunar elevator first,
-which is feasible with existing materials.
+Current approaches: mostly theory for now, plus research into ultra-strong tethers like
+carbon nanotubes and graphene. Some people suggest building a lunar elevator first, which is
+possible with materials we already have.
 
-**Major challenges** — no manufactured material is remotely strong-enough-yet-light-
-enough for an Earth cable ~36,000 km long. Space debris and weather add more.
+Why it's still open: no material we can make is anywhere near strong enough and light enough
+for an Earth cable about 36,000 km long. Space debris and weather make it harder still.
 
-**Predicted timeline** — Earth version: not this generation. Lunar version: plausibly
+Timeline: the Earth version is not happening this generation. A lunar one is plausible around
 mid-century.
 
-**Related problems** — [self-healing materials](#self-healing-materials), [asteroid mining](future-humanity.md).
+Related: self-healing materials, asteroid mining.
 
----
+### Much better batteries
 
-### Battery breakthroughs
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐
+Batteries are the bottleneck for electric cars, for storing renewable power, and for portable
+everything. Better ones unlock the whole clean-energy shift.
 
-**Why it matters** — batteries are the bottleneck for electric cars, grid storage of
-renewables, and portable everything. Better batteries unlock the whole clean-energy
-transition.
+Current approaches: solid-state batteries, which are safer and denser and which Toyota and
+QuantumScape are racing to build, sodium-ion, which is cheap and needs no scarce lithium,
+lithium-sulfur, and large flow batteries for the grid.
 
-**Current approaches** — solid-state batteries (safer, denser — Toyota and QuantumScape
-racing to production), sodium-ion (cheap, no scarce lithium), lithium-sulfur, and
-grid-scale flow batteries.
+Why it's still open: energy density, cost, safety and lifespan pull against each other, so
+improving one usually hurts another.
 
-**Major challenges** — the trade-off triangle of energy density vs. cost vs. safety vs.
-lifespan — improving one usually hurts another.
-
-**Latest breakthrough** — solid-state cells hit lab milestones (2023–2025); first
-commercial vehicles expected late 2020s.
-
----
+Latest: solid-state cells hit lab milestones between 2023 and 2025, with the first cars
+expected late this decade.
 
 ### Self-healing materials
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐
 
-**Why it matters** — infrastructure that repairs its own cracks would slash maintenance
-costs and prevent catastrophic failures in bridges, pipes, and planes.
+Infrastructure that repairs its own cracks would cut maintenance costs and prevent sudden
+failures in bridges, pipes and planes.
 
-**Latest breakthrough** — self-healing concrete (bacteria that precipitate limestone
-to seal cracks) and self-healing polymers are in early real-world deployment.
+Latest: self-healing concrete, using bacteria that seal cracks with limestone, and
+self-healing polymers are already in early real-world use.

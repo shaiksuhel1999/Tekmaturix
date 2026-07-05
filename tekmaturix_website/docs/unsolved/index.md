@@ -2,6 +2,8 @@
 
 A running map of what humanity still hasn't figured out.
 
+![The cosmic web, the large-scale structure of matter across the universe.](../assets/images/cosmic-web.jpg)
+
 Most of this site is about what we know. This part is about what we don't: the biggest open
 problems in science, technology and society, each with a status showing roughly where things
 stand. As breakthroughs happen, the statuses change. That is the whole point. This page

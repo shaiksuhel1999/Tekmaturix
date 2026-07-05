@@ -2,7 +2,7 @@
 
 We have better maps of Mars than of our own sea floor.
 
-![Coral on Flynn Reef, part of the Great Barrier Reef in Australia.](../assets/images/coral-reef.jpg)
+![A coral reef teeming with fish.](../assets/images/coral-reef-new.jpg)
 
 ## How little we have seen
 
@@ -29,6 +29,8 @@ Deep-sea creatures like the anglerfish and giant squid, built for pressure and t
 Underwater volcanoes, where most of Earth's volcanic activity actually happens. Shipwrecks
 sitting untouched in the cold, from ancient trade ships to the Titanic. And the drones and
 submarines slowly mapping a world we have barely seen.
+
+![Creatures of the deep sea, adapted to darkness and pressure.](../assets/images/deep-sea-creatures.jpg)
 
 ## Still open
 

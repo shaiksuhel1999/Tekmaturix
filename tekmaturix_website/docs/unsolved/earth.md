@@ -1,73 +1,73 @@
-# 🌍 Unsolved: Earth & Environment
+# Unsolved: Earth and Environment
+
+![The interior of a fusion reactor.](../assets/images/fusion-reactor.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Commercial fusion energy | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Carbon removal at scale | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Climate change adaptation | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Affordable desalination | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Universal clean drinking water | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Desert greening | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Global biodiversity restoration | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Plastic alternatives | 🟡 Active Progress | ⭐⭐⭐ |
-| Microplastic removal | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Sustainable agriculture | 🟡 Active Progress | ⭐⭐⭐⭐ |
-
----
+| Commercial fusion energy | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Carbon removal at scale | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Climate adaptation | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Affordable desalination | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Clean water for everyone | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Desert greening | 🟠 Early research | ⭐⭐⭐⭐ |
+| Restoring biodiversity | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Plastic alternatives | 🟡 Active progress | ⭐⭐⭐ |
+| Removing microplastics | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
+| Sustainable farming | 🟡 Active progress | ⭐⭐⭐⭐ |
 
 ### Commercial fusion energy
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #2*
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #2
 
-**Why it matters** — fusion is the power source of the stars: near-limitless energy
-from seawater, no long-lived radioactive waste, no carbon. It would rewrite geopolitics
-and climate at once.
+Fusion is the power source of the stars: near-limitless energy from seawater, no long-lived
+radioactive waste, no carbon. It would rewrite both energy and geopolitics.
 
-**Current approaches** — magnetic confinement (ITER, the giant international tokamak;
-private firms like Commonwealth Fusion using high-temperature superconductors),
-inertial confinement (lasers — the US National Ignition Facility), and dozens of
-startups with novel designs.
+Current approaches: magnetic confinement, like the giant international ITER tokamak and
+private firms using high-temperature superconductors, and laser-driven confinement at the US
+National Ignition Facility, plus dozens of startups trying new designs.
 
-**Major challenges** — sustaining a plasma hotter than the Sun's core, getting more
-energy out than in *continuously* (not just for an instant), and doing it economically.
+Why it's still open: you have to hold a plasma hotter than the Sun's core, get more energy
+out than you put in continuously rather than for an instant, and do it cheaply.
 
-**Latest breakthrough** — the National Ignition Facility achieved **net energy gain**
-from a fusion reaction in December 2022, and repeated it — a historic physics milestone
-(though the whole facility still consumed far more power than the reaction released).
+Latest: the National Ignition Facility got more energy out of a fusion reaction than the fuel
+absorbed in December 2022, and has repeated it. A real milestone, though the whole facility
+still used far more power than the reaction released.
 
-**Predicted timeline** — pilot plants in the 2030s; grid-scale commercial fusion
-2040s if milestones hold. "Always 30 years away" is finally shrinking.
+Timeline: pilot plants in the 2030s, grid-scale fusion in the 2040s if the milestones hold.
+The old joke that it is always 30 years away is finally starting to shrink.
 
----
+![Wind turbines and solar panels.](../assets/images/wind-solar.jpg)
 
 ### Affordable desalination
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
 
-**Why it matters** — the ocean holds 97% of Earth's water; making it drinkable cheaply
-would end water scarcity for coastal billions.
+The ocean holds 97% of Earth's water. Making it drinkable cheaply would end water scarcity
+for billions on the coasts.
 
-**Current approaches** — reverse osmosis (mature but energy-hungry), next-gen graphene
-and biomimetic membranes, and pairing plants with solar/renewable power.
+Current approaches: reverse osmosis, which works but uses a lot of energy, newer graphene and
+biology-inspired membranes, and pairing plants with renewable power.
 
-**Major challenges** — energy cost and brine disposal (concentrated salt harms marine
-life). Inland regions can't easily use it.
+![A large desalination plant.](../assets/images/desalination-plant.jpg)
 
-**Related problems** — universal clean water, [ocean farming](oceans.md).
+Why it's still open: energy cost and brine disposal, since concentrated salt harms marine
+life, and inland regions cannot easily use it.
 
----
+Related: clean water for everyone, ocean farming.
 
 ### Carbon removal at scale
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #9*
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #9
 
-**Why it matters** — cutting emissions isn't enough; to hit climate targets we must
-also pull CO₂ *back out* of the air — billions of tonnes per year.
+Cutting emissions is not enough. To hit climate targets we also have to pull CO2 back out of
+the air, billions of tonnes a year.
 
-**Current approaches** — direct air capture (giant fans + chemistry), enhanced rock
-weathering, reforestation, ocean alkalinity enhancement, biochar.
+Current approaches: direct air capture with large fans and chemistry, spreading crushed rock
+that absorbs CO2, replanting forests, and greening deserts.
 
-**Major challenges** — current direct air capture costs hundreds of dollars per tonne
-and captures thousands of tonnes — we need billions of tonnes at a fraction of the cost.
+![Trees planted to green a desert.](../assets/images/desert-greening.jpg)
 
-**Predicted timeline** — meaningful scale requires 2030s–2040s cost breakthroughs.
+Why it's still open: direct air capture today costs hundreds of dollars a tonne and removes
+thousands of tonnes, when we need billions of tonnes at a fraction of the cost.
+
+Timeline: real scale needs cost breakthroughs in the 2030s or 2040s.

@@ -1,74 +1,70 @@
-# 🧠 Unsolved: The Brain
+# Unsolved: The Brain
+
+![A brain rendered as a network of connections.](../assets/images/brain-network.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
 | What is consciousness? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Can lost memories be restored? | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Cure Alzheimer's disease | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Cure Parkinson's disease | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Why do we dream? | 🟠 Early Research | ⭐⭐⭐⭐ |
-| High-bandwidth brain-computer interfaces | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Reading thoughts safely & ethically | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Intelligence enhancement | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Complete human brain map (connectome) | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Mechanisms of mental illness | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-
----
+| Can lost memories be restored? | 🟠 Early research | ⭐⭐⭐⭐ |
+| Cure Alzheimer's | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Cure Parkinson's | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Why do we dream? | 🟠 Early research | ⭐⭐⭐⭐ |
+| High-bandwidth brain interfaces | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Reading thoughts safely | 🟠 Early research | ⭐⭐⭐⭐ |
+| Enhancing intelligence | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| A complete brain map | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| How mental illness works | 🟠 Early research | ⭐⭐⭐⭐⭐ |
 
 ### What is consciousness?
 
-**Status:** 🔴 Unsolved · **Difficulty:** ⭐⭐⭐⭐⭐
+Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
 
-**Why it matters** — it's the deepest question there is: why does information
-processing *feel like something* from the inside? It decides how we treat animals,
-patients in comas, and possibly AI.
+This is about as deep as questions go. Why does information processing feel like anything
+from the inside? The answer shapes how we treat animals, people in comas, and possibly AI.
 
-**Current approaches** — Integrated Information Theory, Global Workspace Theory,
-and adversarial experiments designed to make the theories fight (a landmark
-head-to-head study reported in 2023 wounded both).
+Current approaches: competing theories like Integrated Information Theory and Global
+Workspace Theory, and experiments designed to make those theories fight. A big head-to-head
+study reported in 2023 left both looking incomplete.
 
-**Major challenges** — the "hard problem": even a complete wiring diagram of the
-brain wouldn't obviously explain why experience exists at all.
+Why it's still open: even a full wiring diagram of the brain would not obviously explain why
+experience exists at all. This is what philosophers call the hard problem.
 
-**Predicted timeline** — no consensus even on whether it's solvable.
+Timeline: there is no agreement on whether it is even solvable.
 
-**Related problems** — [AI consciousness](ai.md), anesthesia mechanisms, the nature of dreams.
+Related: [AI consciousness](ai.md), how anesthesia works, dreams.
 
----
+![An illustration of the mind and consciousness.](../assets/images/consciousness.jpg)
 
-### Cure Alzheimer's disease
+### Cure Alzheimer's
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #7*
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #7
 
-**Why it matters** — 55+ million people live with dementia; numbers will triple by
-2050 as populations age. It erases the person before it takes the body.
+More than 55 million people live with dementia, and that number will roughly triple by 2050
+as populations age. It erases the person before it takes the body.
 
-**Current approaches** — anti-amyloid antibodies (lecanemab, donanemab — the first
-drugs to *slow* the disease, approved 2023–2024), blood-based early diagnostics, tau-
-targeting drugs, and prevention via cardiovascular health.
+Current approaches: anti-amyloid antibodies like lecanemab and donanemab, which are the first
+drugs shown to slow the disease and were approved in 2023 and 2024, plus blood tests for
+early diagnosis and drugs that target tau.
 
-**Major challenges** — by the time symptoms appear, the brain has been under attack
-for 20 years. The amyloid hypothesis explains some cases, not all.
+Why it's still open: by the time symptoms show, the brain has been under attack for around 20
+years, and the leading theory explains some cases but not all.
 
-**Latest breakthrough** — blood tests that detect Alzheimer's pathology years before
-symptoms (rolling out mid-2020s) — early treatment is the real unlock.
+Latest: blood tests that pick up Alzheimer's years before symptoms are rolling out in the
+mid-2020s, which makes early treatment realistic.
 
-**Predicted timeline** — meaningful slowing: now. Prevention: 2030s. Reversal: unknown.
+Timeline: slowing it, now. Prevention, the 2030s. Reversal, unknown.
 
----
+### A complete brain map
 
-### Complete human brain map
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐
+The brain has 86 billion neurons and something like 100 trillion connections. Mapping them
+is to neuroscience what the genome was to biology.
 
-**Why it matters** — 86 billion neurons, ~100 trillion connections. Mapping them is
-to neuroscience what the genome was to biology.
+Latest: the full fruit-fly brain, about 140,000 neurons, was finished in 2024. A cubic
+millimetre of human cortex was mapped the same year and took 1.4 petabytes of data.
 
-**Latest breakthrough** — the complete fruit-fly connectome (140,000 neurons) was
-finished in 2024; a full mouse brain is the next milestone. A cubic millimeter of
-human cortex was mapped in 2024 — it took 1.4 petabytes.
+Why it's still open: a whole human brain at that resolution would need more storage than
+currently exists on Earth, so we need new imaging and compression first.
 
-**Major challenges** — a whole human brain at that resolution would require more
-storage than currently exists on Earth. New compression and imaging tech required.
-
-**Related problems** — [brain-computer interfaces](../knowledge/mind.md), mental illness mechanisms.
+Related: [brain interfaces](../knowledge/mind.md), how mental illness works.

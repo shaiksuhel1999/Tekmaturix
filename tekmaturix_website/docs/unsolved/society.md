@@ -1,71 +1,64 @@
-# 💰 Unsolved: Society & Economics
+# Unsolved: Society and Economics
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| End extreme poverty | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Universal quality education | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Affordable healthcare for all | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Housing affordability | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Reduce income inequality | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Reduce corruption | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Food security for all | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Adapt to population aging | 🟠 Early Research | ⭐⭐⭐⭐ |
-| Better disaster response | 🟡 Active Progress | ⭐⭐⭐ |
-| Digital inclusion | 🟡 Active Progress | ⭐⭐⭐ |
-
----
+| End extreme poverty | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Quality education for all | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Affordable healthcare for all | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Affordable housing | 🟠 Early research | ⭐⭐⭐⭐ |
+| Reduce inequality | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Reduce corruption | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Food security for all | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Adapt to aging populations | 🟠 Early research | ⭐⭐⭐⭐ |
+| Better disaster response | 🟡 Active progress | ⭐⭐⭐ |
+| Get everyone online | 🟡 Active progress | ⭐⭐⭐ |
 
 ### End extreme poverty
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #14*
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #14
 
-**Why it matters** — extreme poverty is the root cause behind hunger, preventable
-disease, and lost human potential at massive scale.
+Extreme poverty sits underneath hunger, preventable disease and wasted potential, at a
+massive scale.
 
-**Current approaches** — the share of humanity in extreme poverty fell from ~40%
-(1980) to under 10% today — one of history's great underreported successes. Tools:
-economic growth, direct cash transfers (proven highly effective), mobile banking,
-and targeted global health programs.
+Current approaches: the share of people in extreme poverty fell from about 40% in 1980 to
+under 10% today, which is one of history's great underreported wins. The tools are economic
+growth, direct cash transfers, which turn out to work very well, mobile banking, and targeted
+global health programs.
 
-**Major challenges** — the remaining poverty is concentrated in conflict zones and
-fragile states where growth and aid are hardest to deliver. Climate change threatens
-to reverse gains.
+Why it's still open: what remains is concentrated in conflict zones and fragile states, where
+growth and aid are hardest to deliver, and climate change threatens to undo progress.
 
-**Predicted timeline** — near-elimination is achievable by ~2050 *if* conflict and
-climate don't undo progress.
+Timeline: near-elimination is achievable by around 2050 if conflict and climate do not
+reverse it.
 
-**Related problems** — food security, [universal education](#universal-quality-education).
+Related: food security, quality education.
 
----
+### Quality education for all
 
-### Universal quality education
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐
+Education is the highest-leverage investment in human potential, and it compounds across
+generations.
 
-**Why it matters** — education is the highest-leverage investment in human potential;
-it compounds across generations.
+Current approaches: free online learning like Khan Academy and open courseware, AI tutors
+that adapt to each student, cheap devices, and mobile-first content for places without
+classrooms.
 
-**Current approaches** — free online learning (Khan Academy, open courseware), AI
-tutors that personalize instruction, low-cost devices, and mobile-first content for
-regions without classrooms.
+Why it's still open: access is necessary but not enough. Quality, good teachers and
+motivation matter more than just having material available, and connectivity gaps remain.
 
-**Major challenges** — access is necessary but not sufficient — *quality*, teacher
-support, and motivation matter more than content availability. Connectivity gaps persist.
+Latest: AI tutors from 2023 onward look promising as personal, always-available teachers,
+which could be a real step-change for underserved students.
 
-**Latest development** — AI tutors (2023 onward) show promise as personalized,
-always-available teachers — a possible step-change for underserved learners.
+### Affordable housing
 
----
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐
 
-### Housing affordability
+Housing is the biggest cost in most people's lives, and when it gets unaffordable it drives
+inequality, homelessness and falling birth rates.
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐
+Current approaches: modular and 3D-printed homes, zoning reform to allow more density, and
+mass timber for faster, cheaper mid-rise buildings.
 
-**Why it matters** — housing is the largest cost in most people's lives; unaffordable
-housing drives inequality, homelessness, and declining birth rates.
-
-**Current approaches** — modular/prefab construction, 3D-printed homes, zoning reform
-to allow density, and mass timber for faster cheaper mid-rise buildings.
-
-**Major challenges** — the problem is as much political (land use, regulation) as
-technical. Construction productivity has barely improved in 50 years.
+Why it's still open: it is as much political as technical, since land use and regulation
+drive a lot of it, and construction productivity has barely improved in 50 years.

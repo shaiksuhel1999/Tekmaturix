@@ -7,7 +7,7 @@ each one currently stands.
 I built it as a place to store the things I find worth knowing, and to keep an honest
 map of the questions still open.
 
-![The Hubble Ultra Deep Field. Almost every dot here is a galaxy.](assets/images/space-deep-field.jpg)
+![A field of distant galaxies. Almost every point of light here is a galaxy.](assets/images/space-hero-galaxies.jpg)
 
 ## Where the name comes from
 

@@ -2,7 +2,7 @@
 
 Notes on the universe above us.
 
-![Galaxy NGC 1300, about 61 million light-years away.](../assets/images/galaxy-ngc1300.jpg)
+![A nebula, a cloud of gas and dust where stars are born.](../assets/images/nebula.jpg)
 
 ## Numbers that are hard to take in
 
@@ -31,6 +31,8 @@ photographed two of them, M87 in 2019 and our own galaxy's centre in 2022. NASA 
 missions like Artemis, Europa Clipper and the Voyager probes still going after 45 years.
 And the plain human side of it: astronauts, from Gagarin's first orbit to a full year on
 the station.
+
+![A black hole, bending light around its edge.](../assets/images/black-hole.jpg)
 
 ## Still open
 

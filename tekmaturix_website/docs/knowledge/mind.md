@@ -4,6 +4,8 @@ Telepathy, telekinesis, teleportation and psychology. The line between science f
 the lab is moving faster than most people think, so it is worth being clear about what is
 real and what isn't.
 
+![A person wired to a brain-computer interface.](../assets/images/brain-computer-interface.jpg)
+
 ## Telepathy, mind to mind
 
 The dream is sending thoughts straight from one mind to another.
@@ -41,6 +43,8 @@ a hard question. Would the person who arrives still be you? That is the Ship of 
 problem, which the [philosophy](philosophy.md) page gets into.
 
 ## Psychology, how the mind actually works
+
+![Researchers studying how the mind works.](../assets/images/psychology.jpg)
 
 The most useful frontier here, because you use it every day.
 

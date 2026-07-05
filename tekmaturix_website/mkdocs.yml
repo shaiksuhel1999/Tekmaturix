@@ -1,12 +1,13 @@
 site_name: Tekmaturix
-site_description: Ideas, innovations, and knowledge — exploring breakthroughs in science, mind, space, and beyond to solve real-world problems.
-site_url: https://tekmaturix.com  # change this to your actual domain
-repo_url: https://github.com/YOUR_USERNAME/tekmaturix_website  # change after creating the repo
+site_description: Ideas, innovations and knowledge, plus a running map of the big problems humanity has not solved yet.
+site_url: https://www.tekmaturix.com
+repo_url: https://github.com/shaiksuhel1999/Tekmaturix
+edit_uri: edit/main/tekmaturix_website/docs/
 
 theme:
   name: material
   palette:
-    # Dark mode (default) — fits the 🔥 brand
+    # Dark mode by default
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep orange
@@ -96,6 +97,6 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/YOUR_USERNAME  # change this
+      link: https://github.com/shaiksuhel1999
 
 copyright: Copyright &copy; 2026 Tekmaturix

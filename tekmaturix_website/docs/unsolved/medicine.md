@@ -1,77 +1,70 @@
-# 🧬 Unsolved: Medicine
+# Unsolved: Medicine
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Cure all cancers | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-| Cure HIV | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Universal flu vaccine | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Reverse aging | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Organ regeneration | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Lab-grown / artificial organs | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Prevent dementia | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Eliminate antibiotic resistance | 🟠 Early Research | ⭐⭐⭐⭐⭐ |
-| Personalized medicine for everyone | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Gene-editing safety | 🟡 Active Progress | ⭐⭐⭐⭐ |
-| Prevent future pandemics | 🟡 Active Progress | ⭐⭐⭐⭐⭐ |
-
----
+| Cure all cancers | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Cure HIV | 🟡 Active progress | ⭐⭐⭐⭐ |
+| A universal flu vaccine | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Reverse aging | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Regrow organs | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Lab-grown organs | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Prevent dementia | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Beat antibiotic resistance | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Personalized medicine for all | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Safe gene editing | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Prevent the next pandemic | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
 
 ### Cure all cancers
 
-**Status:** 🟡 Active Progress · **Difficulty:** ⭐⭐⭐⭐⭐
+Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐
 
-**Why it matters** — cancer is not one disease but hundreds, and it touches nearly
-every family.
+Cancer is not one disease but hundreds, and it touches nearly every family.
 
-**Current approaches** — immunotherapy (training the immune system — CAR-T cells have
-*cured* some previously terminal blood cancers), mRNA cancer vaccines (personalized,
-in trials), early detection via blood tests (liquid biopsy), targeted therapies.
+Current approaches: immunotherapy, which trains the immune system and has already cured some
+previously terminal blood cancers with CAR-T cells, personalized mRNA cancer vaccines now in
+trials, early detection through blood tests, and targeted drugs.
 
-**Major challenges** — cancer evolves and resists treatment; solid tumors hide from
-the immune system; what cures one cancer often does nothing for another.
+Why it's still open: cancer evolves and resists treatment, solid tumours hide from the immune
+system, and what cures one cancer often does nothing for another.
 
-**Latest breakthrough** — personalized mRNA vaccines showed strong results against
-melanoma and pancreatic cancer in trials (2023–2024).
+Latest: personalized mRNA vaccines showed strong results against melanoma and pancreatic
+cancer in trials in 2023 and 2024.
 
-**Predicted timeline** — "cure" is the wrong frame — cancer is becoming a *managed*
-disease, cancer by cancer, over the coming decades.
-
----
+Timeline: cure is the wrong word. Cancer is slowly becoming a managed disease, one type at a
+time, over the coming decades.
 
 ### Reverse aging
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐ · *Grand Challenge #6*
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #6
 
-**Why it matters** — aging is the single biggest risk factor for cancer, dementia,
-and heart disease. Slow it, and you delay all of them at once.
+Aging is the single biggest risk factor for cancer, dementia and heart disease. Slow it and
+you delay all of them at once.
 
-**Current approaches** — cellular reprogramming (partial Yamanaka factors rejuvenated
-cells and even restored sight in mice), senolytics (clearing "zombie" cells),
-targeting the hallmarks of aging.
+Current approaches: cellular reprogramming, which has rejuvenated cells and even restored
+sight in mice, drugs that clear worn-out "zombie" cells, and work targeting the underlying
+mechanisms of aging.
 
-**Major challenges** — reprogramming too far turns cells cancerous; human trials are
-slow because the endpoint (living longer) takes decades to measure.
+Why it's still open: push reprogramming too far and cells turn cancerous, and human trials
+are slow because the outcome you care about takes decades to measure.
 
-**Predicted timeline** — healthspan extension: plausibly 2030s–2040s. Dramatic
-lifespan extension: speculative.
+Timeline: extending healthy years is plausible in the 2030s or 2040s. Dramatic lifespan
+extension is still speculative.
 
-**Related problems** — organ regeneration, longevity beyond 120 ([Future Humanity](future-humanity.md)).
+Related: regrow organs, longevity beyond 120 on the
+[future humanity](future-humanity.md) page.
 
----
+### Beat antibiotic resistance
 
-### Eliminate antibiotic resistance
+Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
 
-**Status:** 🟠 Early Research · **Difficulty:** ⭐⭐⭐⭐⭐
+Resistant bacteria could kill around 10 million people a year by 2050 and make routine
+surgery and chemotherapy dangerous again. It is a slow-motion pandemic.
 
-**Why it matters** — resistant bacteria could kill 10 million people/year by 2050,
-making routine surgery and chemotherapy dangerous again. A slow-motion pandemic.
+Current approaches: new classes of antibiotics, including candidates found by AI such as
+halicin, viruses that eat bacteria, and better stewardship to slow resistance.
 
-**Current approaches** — new antibiotic classes (AI-discovered candidates like
-halicin), bacteriophage therapy (viruses that eat bacteria), and stewardship to slow
-resistance.
+Why it's still open: antibiotics are barely profitable because they are used briefly then
+shelved, so the pipeline is almost empty, and evolution eventually beats every drug.
 
-**Major challenges** — antibiotics are unprofitable (used briefly, then shelved), so
-the pipeline is nearly empty. Evolution always eventually wins.
-
-**Latest breakthrough** — machine learning discovered structurally novel antibiotics
-(2023–2024) after decades with almost no new classes.
+Latest: machine learning turned up structurally new antibiotics in 2023 and 2024, after
+decades with almost no new classes.
