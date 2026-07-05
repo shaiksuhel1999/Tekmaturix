@@ -34,6 +34,8 @@ version, though, is already changing lives.
 
 ## Teleportation
 
+![An artist's impression of teleportation through space.](../assets/images/cosmic-teleport.jpg)
+
 What already exists: quantum teleportation. The state of a particle has been transferred to
 another particle over 1,200 km by satellite (China, 2017). This is real, repeatable physics.
 

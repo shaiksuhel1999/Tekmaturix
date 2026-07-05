@@ -4,6 +4,8 @@ A running list of real problems, what people are trying, and roughly where thing
 For the really big open questions there is a separate [Unsolved](../unsolved/index.md)
 section.
 
+![Wind turbines and solar panels, now the cheapest power we have ever built.](../assets/images/wind-solar-field.jpg)
+
 ## Climate change
 Rising CO2 is warming the planet and driving worse weather and higher seas. What is being
 tried: renewables (now the cheapest power we have ever had), electric cars,
@@ -26,6 +28,8 @@ everywhere. What is being tried: [catching plastic at rivers](../unsolved/oceans
 it reaches the sea, enzymes that break down plastic, compostable alternatives, and deposit
 return schemes.
 
+![Plastic waste drifting underwater.](../assets/images/plastic-underwater.jpg)
+
 ## Healthcare access
 Billions of people cannot get affordable, decent care. What is being tried: telemedicine,
 AI that can spot disease from a phone photo, drones that deliver medicine, cheap portable
@@ -34,6 +38,8 @@ devices, and trained community health workers.
 ## Traffic congestion
 Cities lose huge amounts of time and fuel to gridlock. What is being tried: smarter traffic
 lights, congestion charging, better public transport, remote work, and shared rides.
+
+![A connected city street, sensors tuning the flow of traffic.](../assets/images/smart-city-traffic.jpg)
 
 ## Energy storage
 Solar and wind come and go, so we need to store power for when they don't. What is being

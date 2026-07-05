@@ -20,10 +20,14 @@ Computers that use quantum states to solve problems ordinary machines can't, lik
 design and materials. Still fragile and error-prone. See
 [Unsolved: Computing](../unsolved/computing.md).
 
+![Quantum computing hardware in a lab.](../assets/images/quantum-computer.jpg)
+
 ## Fusion energy
 The power source of the stars, on Earth. In 2022 a reaction released more energy than the
 fuel absorbed for the first time. Limitless clean power if we can make it continuous and
 cheap. See [Unsolved: Earth](../unsolved/earth.md).
+
+![The glowing interior of a fusion reactor.](../assets/images/fusion-reactor.jpg)
 
 ## Brain-computer interfaces
 Chips that let the mind control machines directly. They are already restoring movement and

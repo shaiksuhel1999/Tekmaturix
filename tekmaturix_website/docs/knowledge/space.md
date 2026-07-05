@@ -20,6 +20,8 @@ The first exoplanet was confirmed in 1992. We now know of more than 5,000 planet
 other stars, and the James Webb telescope is reading their atmospheres for signs of life.
 We might detect life through chemistry before we ever pick up a signal.
 
+![The Horsehead Nebula, a cloud of gas and dust in Orion.](../assets/images/horsehead-nebula.jpg)
+
 In 2015 we detected gravitational waves for the first time: ripples in spacetime from two
 black holes colliding, measured by an instrument sensitive to a movement thousands of times
 smaller than a proton.

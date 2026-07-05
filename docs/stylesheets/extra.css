@@ -1,0 +1,179 @@
+/* ======================================================================
+   Tekmaturix custom styling
+   ====================================================================== */
+
+:root {
+  --tk-radius: 14px;
+  --tk-shadow: 0 10px 34px rgba(0, 0, 0, 0.28);
+  --tk-shadow-sm: 0 4px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* A touch more breathing room for reading */
+.md-grid {
+  max-width: 66rem;
+}
+
+/* ----------------------------------------------------------------------
+   Hero banner (home page)
+   ---------------------------------------------------------------------- */
+.tk-hero {
+  position: relative;
+  margin: 0 0 2.75rem;
+  padding: clamp(3rem, 9vw, 6rem) 1.5rem;
+  border-radius: var(--tk-radius);
+  text-align: center;
+  color: #fff;
+  overflow: hidden;
+  box-shadow: var(--tk-shadow);
+  background:
+    linear-gradient(180deg, rgba(8, 10, 18, 0.45) 0%, rgba(8, 10, 18, 0.86) 100%),
+    url("../assets/images/space-hero-galaxies.jpg") center / cover no-repeat;
+}
+
+.md-typeset .tk-hero__content {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.md-typeset .tk-hero__eyebrow {
+  margin: 0 0 0.7rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.38em;
+  text-transform: uppercase;
+  opacity: 0.82;
+}
+
+.md-typeset .tk-hero__title {
+  margin: 0 0 0.6rem;
+  font-size: clamp(2.6rem, 7vw, 4.4rem);
+  font-weight: 800;
+  line-height: 1.02;
+  background: linear-gradient(90deg, #ffb066, #ffd8a8 55%, #ffffff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.md-typeset .tk-hero__tag {
+  margin: 0 0 1.7rem;
+  font-size: clamp(1.05rem, 2.4vw, 1.35rem);
+  opacity: 0.94;
+}
+
+.md-typeset .tk-hero__actions {
+  margin: 0;
+}
+
+.md-typeset .tk-hero__actions .md-button {
+  margin: 0.3rem;
+}
+
+.md-typeset .tk-hero__actions .md-button--primary {
+  box-shadow: 0 6px 20px rgba(255, 120, 40, 0.4);
+}
+
+.md-typeset .tk-hero .headerlink {
+  display: none;
+}
+
+/* ----------------------------------------------------------------------
+   Content images
+   ---------------------------------------------------------------------- */
+.md-typeset img {
+  border-radius: var(--tk-radius);
+  box-shadow: var(--tk-shadow-sm);
+}
+
+/* A standalone image becomes a tidy, centred banner */
+.md-typeset p > img:only-child {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 460px;
+  margin: 1.5rem auto;
+}
+
+/* ----------------------------------------------------------------------
+   Grid cards
+   ---------------------------------------------------------------------- */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: var(--tk-radius);
+  padding: 1.1rem 1.2rem;
+  background: var(--md-default-bg-color);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--tk-shadow);
+  border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .grid.cards a {
+  font-weight: 600;
+}
+
+/* ----------------------------------------------------------------------
+   Headings
+   ---------------------------------------------------------------------- */
+.md-typeset h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset h2::before {
+  content: "";
+  display: inline-block;
+  width: 0.55rem;
+  height: 0.55rem;
+  margin-right: 0.55rem;
+  border-radius: 2px;
+  background: var(--md-accent-fg-color);
+  transform: translateY(-0.15rem);
+}
+
+/* ----------------------------------------------------------------------
+   Blockquotes
+   ---------------------------------------------------------------------- */
+.md-typeset blockquote {
+  border-left: 0.28rem solid var(--md-accent-fg-color);
+  border-radius: 0 var(--tk-radius) var(--tk-radius) 0;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+}
+
+/* ----------------------------------------------------------------------
+   Tables (heavily used in the Unsolved section)
+   ---------------------------------------------------------------------- */
+.md-typeset table:not([class]) {
+  border: none;
+  border-radius: var(--tk-radius);
+  overflow: hidden;
+  box-shadow: var(--tk-shadow-sm);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-accent-fg-color);
+  color: #1a1200;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: var(--md-default-fg-color--lightest);
+}
+
+/* ----------------------------------------------------------------------
+   Buttons
+   ---------------------------------------------------------------------- */
+.md-typeset .md-button {
+  border-radius: 40px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.md-typeset .md-button:hover {
+  transform: translateY(-2px);
+}

@@ -13,6 +13,8 @@ times a day, about 3 billion times over a life. And you replace most of your cel
 to 10 years, which is the same Ship of Theseus point the [philosophy](philosophy.md) page
 raises.
 
+![The brain, the most complex organ in the body.](../assets/images/brain-neural.jpg)
+
 ## Organs, genes and breakthroughs
 
 Each organ is its own piece of engineering. The liver runs more than 500 chemical functions.

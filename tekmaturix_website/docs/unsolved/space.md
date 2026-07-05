@@ -61,6 +61,8 @@ Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
 
 A second home would make our civilization far more resilient.
 
+![An early base on the surface of Mars.](../assets/images/mars-base.jpg)
+
 Current approaches: SpaceX Starship for moving cargo, NASA Artemis using the Moon as a
 proving ground first, and experiments like MOXIE, which made oxygen from Martian air in 2021.
 

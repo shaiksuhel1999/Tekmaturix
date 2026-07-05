@@ -1,23 +1,28 @@
-# Tekmaturix
+<div class="tk-hero">
+  <div class="tk-hero__content">
+    <p class="tk-hero__eyebrow">Tek · Matu · Rix</p>
+    <h1 class="tk-hero__title">Tekmaturix</h1>
+    <p class="tk-hero__tag">Ideas, innovation, and the problems we haven't solved yet.</p>
+    <p class="tk-hero__actions">
+      <a class="md-button md-button--primary" href="unsolved/">Explore the Unsolved</a>
+      <a class="md-button" href="knowledge/">Browse Knowledge</a>
+    </p>
+  </div>
+</div>
 
-Most sites collect what we already know. This one also keeps track of what we don't: the
-big problems in science, technology and society that nobody has cracked yet, and where
-each one currently stands.
+Most websites collect what we already know. I wanted one that also keeps an honest list of
+what we don't: the big questions in science, technology and society that are still open, and
+roughly how close anyone actually is to answering them.
 
-I built it as a place to store the things I find worth knowing, and to keep an honest
-map of the questions still open.
+It started as a personal notebook and grew into this. Everything here is written to be read
+later, by me or by anyone else who is curious enough to follow a thread.
 
-![A field of distant galaxies. Almost every point of light here is a galaxy.](assets/images/space-hero-galaxies.jpg)
+## What the name means
 
-## Where the name comes from
+Tek (𒆳) is old shorthand for technology and knowledge. Matu (𒁍) is courage, the part about
+not giving up. Rix is Latin for a leader. Put simply: know things, keep going, build.
 
-Tek (𒆳) is old shorthand for technology and knowledge. Matu (𒁍) stands for courage and
-not giving up. Rix comes from Latin, for a leader or ruler. Put together it is roughly:
-know things, keep going, and build.
-
-## Start here
-
-[Browse the unsolved problems](unsolved/index.md){ .md-button .md-button--primary }
+## Explore
 
 <div class="grid cards" markdown>
 

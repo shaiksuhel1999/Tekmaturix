@@ -20,7 +20,7 @@ statements that can never be proven inside it. Maths proved its own limits.
 
 And Euler's identity ties five fundamental constants together in one line:
 
-$$e^{i\pi} + 1 = 0$$
+`e^(iπ) + 1 = 0`
 
 ## In science
 
