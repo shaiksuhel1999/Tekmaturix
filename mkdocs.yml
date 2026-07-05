@@ -2,7 +2,12 @@ site_name: Tekmaturix
 site_description: Ideas, innovations and knowledge, plus a running map of the big problems humanity has not solved yet.
 site_url: https://www.tekmaturix.com
 repo_url: https://github.com/shaiksuhel1999/Tekmaturix
-edit_uri: edit/main/docs/
+edit_uri: edit/main/src/
+
+# You edit Markdown in src/. `mkdocs build` turns it into the finished website
+# in docs/, which GitHub Pages serves (Settings > Pages > branch main, folder /docs).
+docs_dir: src
+site_dir: docs
 
 theme:
   name: material

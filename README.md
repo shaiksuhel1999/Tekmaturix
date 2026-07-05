@@ -1,34 +1,39 @@
 # Tekmaturix
 
-Source for [www.tekmaturix.com](https://www.tekmaturix.com), a MkDocs Material site.
+Source and published site for [www.tekmaturix.com](https://www.tekmaturix.com),
+a MkDocs Material site.
 
-## Structure
+## The two folders
 
-- `docs/` — all the content: Markdown pages, images (`docs/assets/images`), and styles
-  (`docs/stylesheets/extra.css`). This is the only folder you edit.
-- `mkdocs.yml` — site configuration and navigation.
-- `.github/workflows/deploy.yml` — builds and publishes the site on every push.
+- **`src/`** — where you edit. All the content: Markdown pages, images
+  (`src/assets/images`), and styles (`src/stylesheets/extra.css`).
+- **`docs/`** — the built website that GitHub Pages serves. It is generated from `src/`
+  by the build. Don't edit it by hand.
 
-## Edit and preview locally
+## Preview locally
 
 ```
 pip install -r requirements.txt
 mkdocs serve
 ```
 
-Then open http://127.0.0.1:8000 and edit files under `docs/`. The preview reloads as
-you save.
+Open http://127.0.0.1:8000 and edit files in `src/`; the preview reloads as you save.
 
-## Publish
+## Publish an update
 
-Just push to `main`. GitHub Actions builds the site and deploys it automatically:
+1. Edit files in `src/`.
+2. Rebuild the site:
+   - Windows: `.\build.ps1`
+   - macOS / Linux: `./build.sh`
+3. Commit and push:
+   ```
+   git add -A
+   git commit -m "Update site"
+   git push
+   ```
 
-```
-git add -A
-git commit -m "Update site"
-git push
-```
+## GitHub Pages setting (one time)
 
-## One-time GitHub Pages setting
-
-Repo → Settings → Pages → Build and deployment → **Source: GitHub Actions**.
+Repo → Settings → Pages → Build and deployment:
+- Source: **Deploy from a branch**
+- Branch: **main**   ·   Folder: **/docs**
