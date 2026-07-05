@@ -2,11 +2,7 @@ site_name: Tekmaturix
 site_description: Ideas, innovations and knowledge, plus a running map of the big problems humanity has not solved yet.
 site_url: https://www.tekmaturix.com
 repo_url: https://github.com/shaiksuhel1999/Tekmaturix
-edit_uri: edit/main/tekmaturix_website/docs/
-
-# Build the finished site into the repo-root /docs folder, which GitHub Pages
-# serves directly (Settings > Pages > Branch: main, Folder: /docs).
-site_dir: ../docs
+edit_uri: edit/main/docs/
 
 theme:
   name: material

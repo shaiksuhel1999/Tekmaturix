@@ -1,31 +1,34 @@
 # Tekmaturix
 
-Source and published site for [www.tekmaturix.com](https://www.tekmaturix.com).
+Source for [www.tekmaturix.com](https://www.tekmaturix.com), a MkDocs Material site.
 
-## How it is structured
+## Structure
 
-- `tekmaturix_website/` — the MkDocs project (edit pages under `tekmaturix_website/docs/`)
-- `docs/` — the built HTML site that GitHub Pages serves. Do not edit by hand; it is generated.
+- `docs/` — all the content: Markdown pages, images (`docs/assets/images`), and styles
+  (`docs/stylesheets/extra.css`). This is the only folder you edit.
+- `mkdocs.yml` — site configuration and navigation.
+- `.github/workflows/deploy.yml` — builds and publishes the site on every push.
 
-## Publishing an update
+## Edit and preview locally
 
-1. Edit or add pages under `tekmaturix_website/docs/`.
-2. Rebuild the site:
-   - Windows: `.\deploy.ps1`
-   - macOS / Linux: `./deploy.sh`
-3. Commit and push:
-   ```
-   git add -A
-   git commit -m "Update site"
-   git push
-   ```
+```
+pip install -r requirements.txt
+mkdocs serve
+```
 
-GitHub Pages is set to serve the **`main` branch, `/docs` folder**, so the push publishes
-the site automatically within a minute or two.
+Then open http://127.0.0.1:8000 and edit files under `docs/`. The preview reloads as
+you save.
 
-## First-time GitHub Pages setting
+## Publish
 
-Repo → Settings → Pages → Build and deployment:
-- Source: Deploy from a branch
-- Branch: `main`  ·  Folder: `/docs`
-- Save
+Just push to `main`. GitHub Actions builds the site and deploys it automatically:
+
+```
+git add -A
+git commit -m "Update site"
+git push
+```
+
+## One-time GitHub Pages setting
+
+Repo → Settings → Pages → Build and deployment → **Source: GitHub Actions**.
