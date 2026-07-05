@@ -1,4 +1,4 @@
-# Innovations
+﻿# Innovations
 
 This is where I keep ideas. Not technology for its own sake, but things that make life a
 bit better or solve a problem people actually have.

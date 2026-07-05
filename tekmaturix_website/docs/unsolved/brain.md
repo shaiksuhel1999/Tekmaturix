@@ -1,23 +1,23 @@
-# Unsolved: The Brain
+﻿# Unsolved: The Brain
 
 ![A brain rendered as a network of connections.](../assets/images/brain-network.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| What is consciousness? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Can lost memories be restored? | 🟠 Early research | ⭐⭐⭐⭐ |
-| Cure Alzheimer's | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Cure Parkinson's | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Why do we dream? | 🟠 Early research | ⭐⭐⭐⭐ |
-| High-bandwidth brain interfaces | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Reading thoughts safely | 🟠 Early research | ⭐⭐⭐⭐ |
-| Enhancing intelligence | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| A complete brain map | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| How mental illness works | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| What is consciousness? | Unsolved | Very hard |
+| Can lost memories be restored? | Early research | Hard |
+| Cure Alzheimer's | Active progress | Very hard |
+| Cure Parkinson's | Active progress | Hard |
+| Why do we dream? | Early research | Hard |
+| High-bandwidth brain interfaces | Active progress | Hard |
+| Reading thoughts safely | Early research | Hard |
+| Enhancing intelligence | Early research | Very hard |
+| A complete brain map | Active progress | Very hard |
+| How mental illness works | Early research | Very hard |
 
 ### What is consciousness?
 
-Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
+Status: Unsolved · Difficulty: Very hard
 
 This is about as deep as questions go. Why does information processing feel like anything
 from the inside? The answer shapes how we treat animals, people in comas, and possibly AI.
@@ -37,7 +37,7 @@ Related: [AI consciousness](ai.md), how anesthesia works, dreams.
 
 ### Cure Alzheimer's
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #7
+Status: Active progress · Difficulty: Very hard · grand challenge #7
 
 More than 55 million people live with dementia, and that number will roughly triple by 2050
 as populations age. It erases the person before it takes the body.
@@ -56,7 +56,7 @@ Timeline: slowing it, now. Prevention, the 2030s. Reversal, unknown.
 
 ### A complete brain map
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐
+Status: Active progress · Difficulty: Very hard
 
 The brain has 86 billion neurons and something like 100 trillion connections. Mapping them
 is to neuroscience what the genome was to biology.

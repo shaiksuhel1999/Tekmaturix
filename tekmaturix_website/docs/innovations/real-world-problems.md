@@ -1,4 +1,4 @@
-# Real-World Problems and Solutions
+﻿# Real-World Problems and Solutions
 
 A running list of real problems, what people are trying, and roughly where things stand.
 For the really big open questions there is a separate [Unsolved](../unsolved/index.md)
@@ -58,5 +58,4 @@ ideas matters more than any single one being good.
 
 | Date | Idea | Problem it solves | Status |
 |------|------|-------------------|--------|
-| 2026-07-05 | Tekmaturix knowledge hub | Scattered notes, forgotten learning | Building |
-| | your next idea here | | |
+| 5 Jul 2026 | Tekmaturix knowledge hub | Scattered notes, forgotten learning | Building |

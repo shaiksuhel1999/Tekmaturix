@@ -1,11 +1,11 @@
-# Problem Profile Format
+﻿# Problem Profile Format
 
 Every problem in this section uses the same shape, so copy this when adding a new one.
 
 ```markdown
 ### Problem name
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐
+Status: Active progress · Difficulty: Very hard
 
 A line or two on what the problem is and why it matters.
 
@@ -24,11 +24,11 @@ Related: links to connected problems.
 
 ## Status labels
 
-- 🔴 Unsolved, no credible path yet
-- 🟠 Early research, the basics are still missing
-- 🟡 Active progress, real momentum
-- 🟢 Mostly solved, rollout remaining
-- 🔵 Solved
+- Unsolved, no credible path yet
+- Early research, the basics are still missing
+- Active progress, real momentum
+- Mostly solved, rollout remaining
+- Solved
 
 ## A few rules
 

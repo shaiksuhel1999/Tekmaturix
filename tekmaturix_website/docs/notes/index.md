@@ -1,19 +1,17 @@
 # Ideas Notebook
 
-Quick captures. Half-formed thoughts, questions I don't have answers to, things I want to
-come back to.
+A scratchpad. Things I don't want to lose: half-formed thoughts, questions I can't answer
+yet, and the occasional idea that might go somewhere.
 
-To add one, make a new file in `docs/notes/`, list it under `nav:` in `mkdocs.yml`, and
-push. Or just add a line to the table below.
+## Questions on my mind
 
-## Questions I keep coming back to
+- If quantum teleportation only moves information and not matter, is a person just
+  information too?
+- We inherited school from a different century. What would it look like if we built it today?
+- Of everything on the Unsolved page, which one could I actually take a small step on?
 
-- Quantum teleportation moves information, not matter. So is identity just information?
-- If you designed education today from scratch, what would it look like?
-- Which real problem could I take one small step on this month?
+## Log
 
-## Sparks
-
-| Date | Spark |
-|------|-------|
-| 2026-07-05 | Started Tekmaturix. Giving knowledge away is its own kind of philanthropy. |
+| Date | Note |
+|------|------|
+| 5 Jul 2026 | Started building this site. |

@@ -1,4 +1,4 @@
-# Mind and Beyond
+﻿# Mind and Beyond
 
 Telepathy, telekinesis, teleportation and psychology. The line between science fiction and
 the lab is moving faster than most people think, so it is worth being clear about what is

@@ -1,4 +1,4 @@
-# Maths and Science
+﻿# Maths and Science
 
 The discoveries that changed how we see reality.
 

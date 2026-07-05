@@ -1,22 +1,22 @@
-# Unsolved: Oceans
+﻿# Unsolved: Oceans
 
 ![An underwater habitat on the sea floor.](../assets/images/underwater-habitat.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Mapping the whole ocean floor | 🟡 Active progress | ⭐⭐⭐ |
-| Cleaning up ocean plastic at scale | 🟠 Early research | ⭐⭐⭐⭐ |
-| Predicting rogue waves | 🟡 Active progress | ⭐⭐⭐ |
-| Cataloguing deep-sea life | 🟠 Early research | ⭐⭐⭐⭐ |
-| Ocean farming at scale | 🟡 Active progress | ⭐⭐⭐ |
-| Restoring coral reefs | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Ocean carbon removal | 🟠 Early research | ⭐⭐⭐⭐ |
-| Reliable tsunami prediction | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Underwater habitats | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
+| Mapping the whole ocean floor | Active progress | Medium |
+| Cleaning up ocean plastic at scale | Early research | Hard |
+| Predicting rogue waves | Active progress | Medium |
+| Cataloguing deep-sea life | Early research | Hard |
+| Ocean farming at scale | Active progress | Medium |
+| Restoring coral reefs | Active progress | Hard |
+| Ocean carbon removal | Early research | Hard |
+| Reliable tsunami prediction | Active progress | Hard |
+| Underwater habitats | Unsolved | Very hard |
 
 ### Mapping the whole ocean floor
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐ · grand challenge #10
+Status: Active progress · Difficulty: Medium · grand challenge #10
 
 We cannot protect or understand what we have never seen, and the shape of the sea floor
 drives tsunamis, currents and climate.
@@ -36,7 +36,7 @@ Timeline: a complete first-pass map is possible in the 2030s if funding holds.
 
 ### Cleaning up ocean plastic at scale
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐
+Status: Early research · Difficulty: Hard
 
 About 8 million tonnes of plastic reach the ocean each year, and microplastics now show up
 in rain, food and human blood.
@@ -57,7 +57,7 @@ Related: plastic alternatives, sustainable packaging.
 
 ### Predicting rogue waves
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐
+Status: Active progress · Difficulty: Medium
 
 Walls of water 20 to 30 metres high can appear without warning and have sunk ships built to
 survive any storm. They were dismissed as sailors' myth until one was measured directly at

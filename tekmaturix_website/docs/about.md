@@ -1,4 +1,4 @@
-# About
+﻿# About
 
 Tekmaturix is a place to collect ideas, innovations and knowledge, and to ask what comes
 next.
@@ -17,7 +17,7 @@ A few things the site tries to stick to:
 ## Contact
 
 - GitHub: [shaiksuhel1999](https://github.com/shaiksuhel1999)
-- Email: shaiksuhelbasha16.509@gmail.com
+- Email: shaiksuhelbasha689@gmail.com
 
 ---
 

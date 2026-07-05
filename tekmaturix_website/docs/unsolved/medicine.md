@@ -1,22 +1,22 @@
-# Unsolved: Medicine
+﻿# Unsolved: Medicine
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Cure all cancers | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Cure HIV | 🟡 Active progress | ⭐⭐⭐⭐ |
-| A universal flu vaccine | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Reverse aging | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Regrow organs | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Lab-grown organs | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Prevent dementia | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Beat antibiotic resistance | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Personalized medicine for all | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Safe gene editing | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Prevent the next pandemic | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Cure all cancers | Active progress | Very hard |
+| Cure HIV | Active progress | Hard |
+| A universal flu vaccine | Active progress | Hard |
+| Reverse aging | Early research | Very hard |
+| Regrow organs | Early research | Very hard |
+| Lab-grown organs | Active progress | Hard |
+| Prevent dementia | Early research | Very hard |
+| Beat antibiotic resistance | Early research | Very hard |
+| Personalized medicine for all | Active progress | Hard |
+| Safe gene editing | Active progress | Hard |
+| Prevent the next pandemic | Active progress | Very hard |
 
 ### Cure all cancers
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐
+Status: Active progress · Difficulty: Very hard
 
 Cancer is not one disease but hundreds, and it touches nearly every family.
 
@@ -35,7 +35,7 @@ time, over the coming decades.
 
 ### Reverse aging
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #6
+Status: Early research · Difficulty: Very hard · grand challenge #6
 
 Aging is the single biggest risk factor for cancer, dementia and heart disease. Slow it and
 you delay all of them at once.
@@ -55,7 +55,7 @@ Related: regrow organs, longevity beyond 120 on the
 
 ### Beat antibiotic resistance
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
+Status: Early research · Difficulty: Very hard
 
 Resistant bacteria could kill around 10 million people a year by 2050 and make routine
 surgery and chemotherapy dangerous again. It is a slow-motion pandemic.

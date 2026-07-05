@@ -1,23 +1,23 @@
-# Unsolved: Computing
+﻿# Unsolved: Computing
 
 ![Quantum computing hardware in a lab.](../assets/images/quantum-computer.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Practical quantum computers | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Fault-tolerant quantum systems | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Post-quantum security | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Energy-efficient computing | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Exascale AI infrastructure | 🟢 Mostly solved | ⭐⭐⭐⭐ |
-| Secure digital identity | 🟠 Early research | ⭐⭐⭐⭐ |
-| Global internet access | 🟡 Active progress | ⭐⭐⭐ |
-| Data privacy at scale | 🟠 Early research | ⭐⭐⭐⭐ |
-| Zero-trust security | 🟡 Active progress | ⭐⭐⭐ |
-| A quantum internet | 🟠 Early research | ⭐⭐⭐⭐⭐ |
+| Practical quantum computers | Active progress | Very hard |
+| Fault-tolerant quantum systems | Early research | Very hard |
+| Post-quantum security | Active progress | Hard |
+| Energy-efficient computing | Active progress | Hard |
+| Exascale AI infrastructure | Mostly solved | Hard |
+| Secure digital identity | Early research | Hard |
+| Global internet access | Active progress | Medium |
+| Data privacy at scale | Early research | Hard |
+| Zero-trust security | Active progress | Medium |
+| A quantum internet | Early research | Very hard |
 
 ### Practical quantum computers
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #12
+Status: Active progress · Difficulty: Very hard · grand challenge #12
 
 Quantum computers could crack problems ordinary machines never will, like designing drugs and
 materials atom by atom and modelling chemistry exactly.
@@ -38,7 +38,7 @@ Related: fault-tolerant systems, post-quantum security, a quantum internet.
 
 ### Post-quantum security
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
+Status: Active progress · Difficulty: Hard
 
 A large quantum computer would break most of the encryption protecting today's internet,
 banking and secrets. Some adversaries may already be storing encrypted data now to decrypt
@@ -52,7 +52,7 @@ Earth is a decade-long job that has to finish before quantum computers mature.
 
 ### A quantum internet
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
+Status: Early research · Difficulty: Very hard
 
 A network built on quantum entanglement would be unhackable by the laws of physics, and would
 link quantum computers together.

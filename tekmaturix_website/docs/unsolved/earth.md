@@ -1,23 +1,23 @@
-# Unsolved: Earth and Environment
+﻿# Unsolved: Earth and Environment
 
 ![The interior of a fusion reactor.](../assets/images/fusion-reactor.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Commercial fusion energy | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Carbon removal at scale | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Climate adaptation | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Affordable desalination | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Clean water for everyone | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Desert greening | 🟠 Early research | ⭐⭐⭐⭐ |
-| Restoring biodiversity | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Plastic alternatives | 🟡 Active progress | ⭐⭐⭐ |
-| Removing microplastics | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Sustainable farming | 🟡 Active progress | ⭐⭐⭐⭐ |
+| Commercial fusion energy | Active progress | Very hard |
+| Carbon removal at scale | Early research | Very hard |
+| Climate adaptation | Active progress | Very hard |
+| Affordable desalination | Active progress | Hard |
+| Clean water for everyone | Active progress | Hard |
+| Desert greening | Early research | Hard |
+| Restoring biodiversity | Early research | Very hard |
+| Plastic alternatives | Active progress | Medium |
+| Removing microplastics | Unsolved | Very hard |
+| Sustainable farming | Active progress | Hard |
 
 ### Commercial fusion energy
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #2
+Status: Active progress · Difficulty: Very hard · grand challenge #2
 
 Fusion is the power source of the stars: near-limitless energy from seawater, no long-lived
 radioactive waste, no carbon. It would rewrite both energy and geopolitics.
@@ -40,7 +40,7 @@ The old joke that it is always 30 years away is finally starting to shrink.
 
 ### Affordable desalination
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
+Status: Active progress · Difficulty: Hard
 
 The ocean holds 97% of Earth's water. Making it drinkable cheaply would end water scarcity
 for billions on the coasts.
@@ -57,7 +57,7 @@ Related: clean water for everyone, ocean farming.
 
 ### Carbon removal at scale
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #9
+Status: Early research · Difficulty: Very hard · grand challenge #9
 
 Cutting emissions is not enough. To hit climate targets we also have to pull CO2 back out of
 the air, billions of tonnes a year.

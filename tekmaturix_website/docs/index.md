@@ -1,4 +1,4 @@
-<div class="tk-hero">
+﻿<div class="tk-hero">
   <div class="tk-hero__content">
     <p class="tk-hero__eyebrow">Tek · Matu · Rix</p>
     <h1 class="tk-hero__title">Tekmaturix</h1>

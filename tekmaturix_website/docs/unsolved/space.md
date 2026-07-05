@@ -1,23 +1,23 @@
-# Unsolved: Space and Astronomy
+﻿# Unsolved: Space and Astronomy
 
 ![Light bending around a black hole.](../assets/images/black-hole-lensing.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| What is dark matter? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| What is dark energy? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Are we alone? | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Where is Planet Nine? | 🟡 Active progress | ⭐⭐⭐ |
-| A self-sustaining Mars colony | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Faster-than-light travel | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Interstellar travel below light speed | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Warp drive | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Artificial gravity in spacecraft | 🟠 Early research | ⭐⭐⭐ |
-| Detecting alien intelligence | 🟠 Early research | ⭐⭐⭐⭐ |
+| What is dark matter? | Unsolved | Very hard |
+| What is dark energy? | Unsolved | Very hard |
+| Are we alone? | Early research | Very hard |
+| Where is Planet Nine? | Active progress | Medium |
+| A self-sustaining Mars colony | Early research | Very hard |
+| Faster-than-light travel | Unsolved | Very hard |
+| Interstellar travel below light speed | Early research | Very hard |
+| Warp drive | Unsolved | Very hard |
+| Artificial gravity in spacecraft | Early research | Medium |
+| Detecting alien intelligence | Early research | Hard |
 
 ### What is dark matter?
 
-Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
+Status: Unsolved · Difficulty: Very hard
 
 Galaxies spin too fast to hold together on the gravity of the matter we can see. Something
 invisible makes up about 27% of the universe, and we do not know what it is.
@@ -37,7 +37,7 @@ Related: dark energy, quantum gravity.
 
 ### Are we alone?
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
+Status: Early research · Difficulty: Very hard
 
 Either answer changes how humanity sees itself.
 
@@ -57,7 +57,7 @@ can say.
 
 ### A self-sustaining Mars colony
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐
+Status: Early research · Difficulty: Very hard
 
 A second home would make our civilization far more resilient.
 

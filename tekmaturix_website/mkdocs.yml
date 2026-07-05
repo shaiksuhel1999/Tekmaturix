@@ -11,22 +11,21 @@ site_dir: ../docs
 theme:
   name: material
   palette:
-    # Dark mode by default
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep orange
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-    # Light mode
+    # Light and plain by default
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
-      accent: amber
+      primary: white
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     text: Inter
     code: JetBrains Mono

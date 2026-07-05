@@ -1,21 +1,21 @@
-# Unsolved: Engineering
+﻿# Unsolved: Engineering
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Space elevator | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Practical flying cars | 🟡 Active progress | ⭐⭐⭐ |
-| Hyperloop at scale | 🟠 Early research | ⭐⭐⭐⭐ |
-| Much better batteries | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Wireless power | 🟠 Early research | ⭐⭐⭐⭐ |
-| Cheap green hydrogen | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Self-healing materials | 🟡 Active progress | ⭐⭐⭐ |
-| Earthquake-proof cities | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Carbon-negative buildings | 🟠 Early research | ⭐⭐⭐⭐ |
-| Autonomous construction | 🟡 Active progress | ⭐⭐⭐ |
+| Space elevator | Unsolved | Very hard |
+| Practical flying cars | Active progress | Medium |
+| Hyperloop at scale | Early research | Hard |
+| Much better batteries | Active progress | Hard |
+| Wireless power | Early research | Hard |
+| Cheap green hydrogen | Active progress | Hard |
+| Self-healing materials | Active progress | Medium |
+| Earthquake-proof cities | Active progress | Hard |
+| Carbon-negative buildings | Early research | Hard |
+| Autonomous construction | Active progress | Medium |
 
 ### Space elevator
 
-Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
+Status: Unsolved · Difficulty: Very hard
 
 A cable running from the ground up to orbit would let cargo ride into space for a tiny
 fraction of what rockets cost. It would be the single biggest change to space access there
@@ -35,7 +35,7 @@ Related: self-healing materials, asteroid mining.
 
 ### Much better batteries
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
+Status: Active progress · Difficulty: Hard
 
 Batteries are the bottleneck for electric cars, for storing renewable power, and for portable
 everything. Better ones unlock the whole clean-energy shift.
@@ -52,7 +52,7 @@ expected late this decade.
 
 ### Self-healing materials
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐
+Status: Active progress · Difficulty: Medium
 
 Infrastructure that repairs its own cracks would cut maintenance costs and prevent sudden
 failures in bridges, pipes and planes.

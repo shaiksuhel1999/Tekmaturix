@@ -1,21 +1,21 @@
-# Unsolved: Society and Economics
+﻿# Unsolved: Society and Economics
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| End extreme poverty | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Quality education for all | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Affordable healthcare for all | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
-| Affordable housing | 🟠 Early research | ⭐⭐⭐⭐ |
-| Reduce inequality | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Reduce corruption | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Food security for all | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Adapt to aging populations | 🟠 Early research | ⭐⭐⭐⭐ |
-| Better disaster response | 🟡 Active progress | ⭐⭐⭐ |
-| Get everyone online | 🟡 Active progress | ⭐⭐⭐ |
+| End extreme poverty | Active progress | Very hard |
+| Quality education for all | Active progress | Hard |
+| Affordable healthcare for all | Active progress | Very hard |
+| Affordable housing | Early research | Hard |
+| Reduce inequality | Early research | Very hard |
+| Reduce corruption | Early research | Very hard |
+| Food security for all | Active progress | Hard |
+| Adapt to aging populations | Early research | Hard |
+| Better disaster response | Active progress | Medium |
+| Get everyone online | Active progress | Medium |
 
 ### End extreme poverty
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #14
+Status: Active progress · Difficulty: Very hard · grand challenge #14
 
 Extreme poverty sits underneath hunger, preventable disease and wasted potential, at a
 massive scale.
@@ -35,7 +35,7 @@ Related: food security, quality education.
 
 ### Quality education for all
 
-Status: 🟡 Active progress · Difficulty: ⭐⭐⭐⭐
+Status: Active progress · Difficulty: Hard
 
 Education is the highest-leverage investment in human potential, and it compounds across
 generations.
@@ -52,7 +52,7 @@ which could be a real step-change for underserved students.
 
 ### Affordable housing
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐
+Status: Early research · Difficulty: Hard
 
 Housing is the biggest cost in most people's lives, and when it gets unaffordable it drives
 inequality, homelessness and falling birth rates.

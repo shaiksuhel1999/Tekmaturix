@@ -1,4 +1,4 @@
-# Ancient Civilizations and History
+﻿# Ancient Civilizations and History
 
 The past is stranger, and often more advanced, than we tend to assume.
 

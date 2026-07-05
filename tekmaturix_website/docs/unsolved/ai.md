@@ -1,22 +1,22 @@
-# Unsolved: Artificial Intelligence
+﻿# Unsolved: Artificial Intelligence
 
 ![A humanoid robot in a city street.](../assets/images/humanoid-robot.jpg)
 
 | Problem | Status | Difficulty |
 |---------|--------|------------|
-| Safe AGI | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| AI alignment | 🟠 Early research | ⭐⭐⭐⭐⭐ |
-| Is AI consciousness possible? | 🔴 Unsolved | ⭐⭐⭐⭐⭐ |
-| Explainable AI | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Removing AI bias | 🟡 Active progress | ⭐⭐⭐⭐ |
-| AI governance | 🟠 Early research | ⭐⭐⭐⭐ |
-| Ending hallucinations | 🟡 Active progress | ⭐⭐⭐⭐ |
-| General-purpose robots | 🟡 Active progress | ⭐⭐⭐⭐ |
-| Human-level reasoning | 🟡 Active progress | ⭐⭐⭐⭐⭐ |
+| Safe AGI | Early research | Very hard |
+| AI alignment | Early research | Very hard |
+| Is AI consciousness possible? | Unsolved | Very hard |
+| Explainable AI | Active progress | Hard |
+| Removing AI bias | Active progress | Hard |
+| AI governance | Early research | Hard |
+| Ending hallucinations | Active progress | Hard |
+| General-purpose robots | Active progress | Hard |
+| Human-level reasoning | Active progress | Very hard |
 
 ### AI alignment
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #13
+Status: Early research · Difficulty: Very hard · grand challenge #13
 
 An AI more capable than the people who built it needs to reliably want what people want,
 even in situations nobody planned for. Get this wrong at a high enough capability level and
@@ -38,7 +38,7 @@ Related: safe AGI, AI governance, explainable AI.
 
 ### Safe artificial general intelligence
 
-Status: 🟠 Early research · Difficulty: ⭐⭐⭐⭐⭐ · grand challenge #1
+Status: Early research · Difficulty: Very hard · grand challenge #1
 
 AGI could compress a century of scientific progress into a decade, from curing diseases to
 solving fusion. Built carelessly, it is also the highest-stakes technology in history.
@@ -54,7 +54,7 @@ part of the problem.
 
 ### Is AI consciousness possible?
 
-Status: 🔴 Unsolved · Difficulty: ⭐⭐⭐⭐⭐
+Status: Unsolved · Difficulty: Very hard
 
 If an AI could actually suffer or experience anything, how we build and use it changes
 completely.

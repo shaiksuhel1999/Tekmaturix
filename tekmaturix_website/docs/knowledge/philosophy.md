@@ -1,4 +1,4 @@
-# Philosophy and Philanthropy
+﻿# Philosophy and Philanthropy
 
 Thinking clearly, and turning that into doing some good.
 
