@@ -1,0 +1,101 @@
+site_name: Tekmaturix
+site_description: Ideas, innovations, and knowledge — exploring breakthroughs in science, mind, space, and beyond to solve real-world problems.
+site_url: https://tekmaturix.com  # change this to your actual domain
+repo_url: https://github.com/YOUR_USERNAME/tekmaturix_website  # change after creating the repo
+
+theme:
+  name: material
+  palette:
+    # Dark mode (default) — fits the 🔥 brand
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/fire
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Unsolved:
+      - unsolved/index.md
+      - Space & Astronomy: unsolved/space.md
+      - Oceans: unsolved/oceans.md
+      - Artificial Intelligence: unsolved/ai.md
+      - The Brain: unsolved/brain.md
+      - Medicine: unsolved/medicine.md
+      - Earth & Environment: unsolved/earth.md
+      - Engineering: unsolved/engineering.md
+      - Society & Economics: unsolved/society.md
+      - Computing: unsolved/computing.md
+      - Future Humanity: unsolved/future-humanity.md
+      - Problem Template: unsolved/template.md
+  - Innovations:
+      - innovations/index.md
+      - Real-World Problems: innovations/real-world-problems.md
+  - Knowledge:
+      - knowledge/index.md
+      - Space: knowledge/space.md
+      - Oceans & Deep Sea: knowledge/oceans.md
+      - Future Technology: knowledge/future-tech.md
+      - Mind & Beyond: knowledge/mind.md
+      - Maths & Science: knowledge/maths-science.md
+      - Philosophy & Philanthropy: knowledge/philosophy.md
+      - Ancient Civilizations: knowledge/ancient-civilizations.md
+      - Inventions: knowledge/inventions.md
+      - Engineering Wonders: knowledge/engineering-wonders.md
+      - Natural Wonders: knowledge/natural-wonders.md
+      - Medical Science: knowledge/medical-science.md
+  - Ideas Notebook: notes/index.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/YOUR_USERNAME  # change this
+
+copyright: Copyright &copy; 2026 Tekmaturix
